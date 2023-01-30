@@ -116,7 +116,7 @@ def impossible(answer):
             return print(f'\nYou lost! You picked {answer} and the bot picked rock!')
 
 counter = 0
-print(f'\n\nWelcome to a game of rock paper scissors! This game of rock paper scissors has 4 different levels being "Player Favored", "Normal", "Bot Favored", "Impossible".\n')
+print(f'\n\nWelcome to a game of rock paper scissors made by MoonieSerenity! This game of rock paper scissors has 4 different levels being "Player Favored", "Normal", "Bot Favored", "Impossible".\n')
 
 while True :
     counter = counter + 1
